@@ -1,0 +1,65 @@
+/*Google fonts integrate*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;515;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.item-section{
+width: 100%;
+height: auto;
+padding: 100px 0;
+}
+.item-title{
+	text-align: center;
+}
+.item-title h1{
+	font-size: 42px;
+}
+.item-body{
+	width: 100%;
+	float: left;
+	margin: 0 15px;
+}
+.col-5{
+	width: 50%;
+	float: left;
+	margin: 50px;
+}
+.item-img{
+	padding: 50px;
+	text-align: right;
+	
+}
+.item-text{
+	width: 50%;
+	float: right;
+	padding: 50px;
+	margin-left: 60px;
+	
+}
+.item-text ul li{
+	list-style: none;
+	color: #4c527d;
+	margin-bottom: 16px;
+}
+.item-text ul li i{
+	color: #7FCDBB;
+	margin-right: 16px;
+}
+.item-text button{
+	background: #ed6524;
+	font-size: 18px;
+	color: white;
+	padding: 20px 40px;
+	border-radius: 32px;
+	outline: none;
+	border: 3px solid #ed6524;
+	margin-right: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: 600;
+}
+
